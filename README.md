@@ -1,3 +1,5 @@
+## GLOBAL SUPERSTORE PERFORMANCE ANALYSIS
+
 **Overview**
 
 This project is an interactive Power BI dashboard built to analyze the performance of Global Superstore, a global online retailer headquartered in New York. The superstore offers a catalogue of over 10,000 products across three main categories — Office Supplies (e.g., staples), Furniture (e.g., chairs), and Technology (e.g., smartphones) — serving customers across multiple countries worldwide.
@@ -25,6 +27,7 @@ The analysis was designed to answer the following business questions:
 
 **Customer Returns & Valuable Customers** — Who are the customers that returned items, what segments do they belong to, and who are the most valuable customers by profit contribution?
 
+
 **Key Insights**
 
 **Top 3 Countries (2014 Profit)**: ** United States (`$286K`), China, and India (`$129K`)
@@ -40,6 +43,7 @@ The analysis was designed to answer the following business questions:
 **Australia**: Appliances, Copiers, and Phones are the most profitable subcategories; Tables are the least profitable
 
 **Top Customer**: Tamara Chand, contributing the highest profit among all customers
+
 
 **Recommendations**
 
@@ -57,5 +61,5 @@ Invest in personalized marketing and customer loyalty programs to increase engag
 ## 📂 Project Resources & Downloads
 If you would like to explore the backend data modeling, DAX measures, or raw data transformations, use the links below:
 
-* 📥 **[Download the Full Power BI (.pbix) File](./ALEEMAT_MOTUNRAYO_AGBOOLA_WDS028_CAPSTONE_2.pbix)** — *Open this in Power BI Desktop to explore the interactive data model, calculation groups, and report layout.*
+* 📥 **[Download the Full Power BI (.pbix) File](./Aleemat_Capstone_Project.pbix)** — *Open this in Power BI Desktop to explore the interactive data model, calculation groups, and report layout.*
 * 💾 **[View the Raw Dataset](./Global_Superstore_Cleaned_data.xlsx)** — *The original data used as the foundation for this analysis.*
