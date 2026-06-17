@@ -1,6 +1,7 @@
 ## GLOBAL SUPERSTORE PERFORMANCE ANALYSIS
 
-**Overview**
+
+## Overview
 
 This project is an interactive Power BI dashboard built to analyze the performance of Global Superstore, a global online retailer headquartered in New York. The superstore offers a catalogue of over 10,000 products across three main categories — Office Supplies (e.g., staples), Furniture (e.g., chairs), and Technology (e.g., smartphones) — serving customers across multiple countries worldwide.
 
@@ -9,7 +10,8 @@ The dashboard surfaces data-driven insights into sales, profitability, shipping,
 ## 🕹️ Live Dashboard Preview
 ![Power BI Dashboard Tour](images/Capstone%20Animation.gif)
 
-**Objectives**
+
+## Objectives
 
 The analysis was designed to answer the following business questions:
 
@@ -28,7 +30,8 @@ The analysis was designed to answer the following business questions:
 **Customer Returns & Valuable Customers** — Who are the customers that returned items, what segments do they belong to, and who are the most valuable customers by profit contribution?
 
 
-**Key Insights**
+
+## Key Insights
 
 **Top 3 Countries (2014 Profit)**: ** United States (`$286K`), China, and India (`$129K`)
 
@@ -45,7 +48,8 @@ The analysis was designed to answer the following business questions:
 **Top Customer**: Tamara Chand, contributing the highest profit among all customers
 
 
-**Recommendations**
+
+## Recommendations
 
 The Store should:
 Expand product range in high-performing subcategories (Appliances, Copiers, Phones) and leverage customer feedback to sustain their success
