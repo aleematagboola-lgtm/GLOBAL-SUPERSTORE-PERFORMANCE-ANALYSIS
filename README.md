@@ -39,7 +39,7 @@ The analysis was designed to answer the following business questions:
 
 **Nigeria**: Recorded a significant loss of -$23,285.19, the lowest profitability among African countries. Contributing factors include high shipping costs ($1,518.48) and an average discount rate of 38.09% — far above peer countries
 
-**Southeast Asia**: Tables are the least profitable subcategory, with a total loss of ~$19K. Indonesia accounts for the majority of this (~$11K), followed by the Philippines and Thailand
+**Southeast Asia**: Tables are the least profitable subcategory, with a total loss of \~$19K. Indonesia accounts for the majority of this (~$11K), followed by the Philippines and Thailand
 
 **Least Profitable US City**: Lancaster, with an average loss of -$157.37, driven by high discount spending ($4,869.77) and shipping costs ($1,103.70) relative to total sales ($9,891.46 across 46 orders)
 
@@ -52,6 +52,7 @@ The analysis was designed to answer the following business questions:
 ## Recommendations
 
 The Store should:
+
 Expand product range in high-performing subcategories (Appliances, Copiers, Phones) and leverage customer feedback to sustain their success
 
 Implement cross-selling and upselling strategies to grow revenue from profitable segments
